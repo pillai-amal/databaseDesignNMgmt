@@ -46,3 +46,10 @@ ORDER BY
  ```sql   
 SELECT DISTINCT expressions
  ```
+
+ - To find sum
+ ```sql
+ SELECT city, SUM(sales) AS "total sales"
+ FROM table_name
+ GROUP BY city
+ ```
