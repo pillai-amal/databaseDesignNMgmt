@@ -21,3 +21,11 @@ Types:
 	- NOT
 	- EXISTS
 	- LIKE (using wildcard charaters)
+
+# Constrains
+- NOT NULL
+- UNIQUE 
+- PRIMARY KEY
+- FOREIGN KEY
+- DEFAULT
+- CHECK
