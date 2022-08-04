@@ -1,3 +1,3 @@
 # Database Desing and Management - Notes + Projects
-Note:
-    Install [obsidian](https://obsidian.md/)
+
+Notes in this repo is written as plain markdown format. However I would suggest using [obsidian](https://obsidian.md/)
