@@ -53,3 +53,9 @@ SELECT DISTINCT expressions
  FROM table_name
  GROUP BY city
  ```
+ - Update
+ ```sql
+UPDATE student 
+SET city="newname"
+WHERE id=3;
+ ```
