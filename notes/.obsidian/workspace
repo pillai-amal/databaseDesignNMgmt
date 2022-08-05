@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "7557e79b6acc644a",
+        "id": "6735ffa30c7a973f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "joins.md",
+            "file": "SQL Functions.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "joins.md",
+                "file": "SQL Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "joins.md",
+                "file": "SQL Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "joins.md"
+                "file": "SQL Functions.md"
               }
             }
           }
@@ -128,9 +128,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7557e79b6acc644a",
+  "active": "6735ffa30c7a973f",
   "lastOpenFiles": [
-    "SQL.md",
-    "Untitled.md"
+    "SQL Functions.md",
+    "joins.md",
+    "SQL.md"
   ]
 }
