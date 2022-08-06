@@ -34,3 +34,14 @@ Example :
     - starts a new session is there is no exsisting session otherwise returns the existing serssion.
 - session_destroy()
     - Destroys the all session variables.
+
+# PHP Database Connection
+- Using mysqli_connect()
+    - Functions available are:
+        - connect()
+        - mysqli_close()
+        - fetch_array() : fetches result as an associative array/numeric array/both.
+        - mysqli_query() :  used execute a query.
+        - prepare() : prepares an sql query for execution.
+        - fetch_all() : fetches all result array.
+- Using PDO (php database object)
