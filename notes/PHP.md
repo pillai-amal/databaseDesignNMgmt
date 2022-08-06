@@ -44,4 +44,8 @@ Example :
         - mysqli_query() :  used execute a query.
         - prepare() : prepares an sql query for execution.
         - fetch_all() : fetches all result array.
+        ---
 - Using PDO (php database object)
+    - Its an light weight PHP extension.
+    - PDO is more flexible and can connect to multiple database in comparison with mysqli_connect
+    - Bothb are object orieneted.

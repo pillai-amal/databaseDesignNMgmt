@@ -18,6 +18,6 @@ Type of dates in SQL :
 Date functions in  SQL:
     - NOW()
     - CURDATE()
-    - EXTRACT
+    - EXTRACT()
     - DATE_ADD()
     - DATE_DIFF()
