@@ -1,0 +1,36 @@
+# PHP Syntax
+
+```php
+    <?php
+        // code goes here
+    ?>
+```
+Example :
+```php
+    <?php
+        $str = "helllo";
+        $x=240;
+        $y=3.14;
+        echo "string is $str";
+        echo "number is $x";
+        echo "float value is $y";
+    ?>
+```
+
+# PHP From handling 
+## PHP super globals 
+
+- $_GET
+-   $_POST
+
+# PHP Sessions
+> PHP sessions is used to pass infoirmations from one page to another page. 
+
+> PHP sission creates a unnique suser_ID for each browser and avoid conficts between the browsers
+
+- $_SESSION : is an <i>  associative array <i/> that contains ann session variables. 
+    - It is used to set and get session variables.
+- session_start()
+    - starts a new session is there is no exsisting session otherwise returns the existing serssion.
+- session_destroy()
+    - Destroys the all session variables.
